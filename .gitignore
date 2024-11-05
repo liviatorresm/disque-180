@@ -1,0 +1,14 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema
+*.tmp
+
+# Ignorar pasta de imagens
+imgs/
+
+# Ignorar arquivos do Power BI (.pbix)
+*.pbix
+
+# Ignorar csv
+*.csv
